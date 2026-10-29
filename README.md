@@ -14,10 +14,11 @@ made with gemini, I had it make this to auto mark certain things on my site as o
 
 ## Installation & Usage
 
-1. Copy the contents of the `.php` file.
+1. Copy the contents of the `.php` file. Or import the json in Fluent Snippets.
 2. Paste it into your WordPress snippet manager (such as Fluent Snippets, WPCode, or Code Snippets).
 3. **Important:** Set the snippet to run **Everywhere**. It must be active on the frontend to hook into the cart validation and product display logic.
 4. Navigate to **WooCommerce > Inventory Control System** in your WordPress dashboard to configure your threshold, target products, and the Discord webhook.
+
 
 
 
