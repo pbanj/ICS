@@ -1,6 +1,6 @@
 # Inventory Control System
 
-made with gemini, I had it make this to auto mark certain things on my site as out of stock when open orders go over a certain amount. Handy when taking in devices to work on so you don't get too many at once. Handles variations and products you don't track stock on
+made with gemini, I had it make this to auto mark certain things on my site as out of stock when open orders go over a certain amount. Handy when taking in devices to work on so you don't get too many at once. Handles variations and products you don't track stock on too.
 
 
 ## Key Features
